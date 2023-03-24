@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rf2+fBgzMdXYMiQmRk19ORbIkNidVwHcRHz9zzH2nY7VFkxqKCZ2Pc4U3AXNCu53nO66VEh5/GxEwf54hRB4MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAI DHIRAJ\\source\\repos\\abc\\abc\\abc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAI DHIRAJ\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
